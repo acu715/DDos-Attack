@@ -5,25 +5,20 @@
 by overwhelming it with traffic from multiple sources. They target a wide variety of important resources
 from banks to news websites, and present a major challenge to making sure people can publish and access important information
 
-### Dwonload&Install
+### Update
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+update to python 3
 
-### cd DDos-Attack
+add a function : Get IP from HTTPS(URL)
 
-### chmod +x ddos-attack.py
+### How to use it
 
-### python ddos-attack.py
+## Dwonload&Install
 
-### ScreenShot 
+## git clone https://github.com/acu715/DDos-Attack
 
-![capture](https://user-images.githubusercontent.com/33704360/38769260-91bfc362-3fb4-11e8-86c6-d5a3ca13c31a.PNG)
+## cd DDos-Attack
 
-### YouTube channel
+## chmod +x ddos-attack.py
 
-https://www.youtube.com/channel/UCCgy7i_A5yhAEdY86rPOinA
-
-### Video Tutorial
-
-https://www.youtube.com/watch?v=-e3Iia_P7rA
-
+## python ddos-attack.py
